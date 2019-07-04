@@ -1,23 +1,36 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Élika</strong> Ortega
+description: <a href="https://www.colorado.edu/humanities/">Assistant Professor. Humanities Program. CU, Boulder</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: workingatthelab_bnw.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1201 17th St</p>
+    <p>Boulder, CO, 80309</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**[EN]**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As of August 2019 I will be an assistant professor of [Humanities](https://www.colorado.edu/humanities/) at the [University of Colorado, Boulder](https://www.colorado.edu/). Before that, I was an Assistant Professor at the [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) and Core Faculty at the [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) at [Northeastern University](http://www.northeastern.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I write about digital literature and media, cultural hybridity, reading practices and interfaces, books, digital humanities, and multilingualism in academia. My projects include _A Handbook of E-Lit Reading, an archive of instructions to read electronic literature works_; and _Binding Media: Print-Digital Literature 1980s-2010s_, my monograph investigating print-digital works of literature from a hemispheric perspective.
+
+I was the Program Committee co-chair for Digital Humanities 2018 and I'm currently editing a special issue of DSH of conference papers. I'm part of the executive committee of the TC Digital Humanities at MLA, and an Association for Computers and the Humanities executive council officer.
+
+Please go to projects, cv, or blog to find out more about my work.
+
+**[ES]**
+
+A partir de Agosto de 2019 seré profesora asistente en el programa de [Humanidades](https://www.colorado.edu/humanities/) en la [Universidad de Colorado, Boulder](https://www.colorado.edu/). Hasta ahora soy profesora asistente en el [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) y el [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) en [Northeastern University](http://www.northeastern.edu/). 
+
+Trabajo sobre literatura digital y medios, hibridez cultural,  prácticas de lectura e interfaces, libros, humanidades digitales y multilingüismo en la academia. Mis proyectos incluyen A Handbook of E-Lit Reading, un archivo de instrucciones de lectura que acompañan a trabajos de literatura electrónica y Binding Media: Print-Digital Literature 1980s-2010s, mi monográfico que investiga la producción de obras literarias impreso-digitales desde una perspectiva hemisférica.
+
+Fui co-presidenta del Comité Académico para Humanidades Digitales 2018 y, actualmente estoy editando el número especial de la conferencia para DSH. Soy parte del comité ejecutivo del TC de Humanidades Digitales en MLA y miembro del consejo ejecutivo de la Association for Computers and the Humanities.
+
+Si quieres saber más de mi trabajo ve a las secciones de proyectos, cv, o blog.
