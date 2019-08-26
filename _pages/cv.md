@@ -8,7 +8,7 @@ description:
 **Academic Positions**
 
 Assistant Professor (Tenure Track)
-Starting August 2019
+August 2019 to present
 Humanities Program
 University of Colorado, Boulder
 
@@ -52,13 +52,13 @@ National Autonomous University of Mexico
 *Articles and Chapters*
 
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (under review).
-   * "Media and Cultural Hybridity in the Digital Humanities." PMLA. especial issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. (under review)
+   * "Media and Cultural Hybridity in the Digital Humanities." PMLA. especial issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. Forthcoming January 2020.
    * "Binding Media: Print Digital Literatures from Latin America" (under review at AMODERN).
    * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
-   * "Zonas de Contacto: A Digital Humanities Ecology of Knowledges." Debates in the Digital Humanities 2019. (eds) Matthew Gold and Lauren Klein. University of Minnesota Press. 2019.
-   * "Archives, Libraries, Collections, and Databases: A First Look at Digital Literary Studies in Mexico." Hispanic Review. Mexican Literary Archives Special Issue. Hispanic Review 86 (2), 229-247. [(pre-print)](https://t.co/CZMciYnF92).
-   * [“Not a Case of Words:  Textual Environments and Multimateriality in Between Page and Screen.”](http://www.electronicbookreview.com/thread/electropoetics/multimateriality) Electronic Book Review. 2017.
-   * ["El @rte nuevo de h@cer bots: Ulises C@rrión en Twitter y la literatura cotidiana."](https://www.dropbox.com/s/axa7gmqduv8qghf/carrionbot_fml.pdf?dl=0) Pliego 16. 12:21. Fundación para las letras mexicanas. 2017.
+   * ["Zonas de Contacto: A Digital Humanities Ecology of Knowledges."](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15) *Debates in the Digital Humanities 2019.* (eds) Matthew Gold and Lauren Klein. University of Minnesota Press. 2019.
+   * "Archives, Libraries, Collections, and Databases: A First Look at Digital Literary Studies in Mexico." *Hispanic Review.* Mexican Literary Archives Special Issue. Hispanic Review 86 (2), 229-247. [(pre-print)](https://t.co/CZMciYnF92).
+   * [“Not a Case of Words:  Textual Environments and Multimateriality in Between Page and Screen.”](http://www.electronicbookreview.com/thread/electropoetics/multimateriality) *Electronic Book Review.* 2017.
+   * ["El @rte nuevo de h@cer bots: Ulises C@rrión en Twitter y la literatura cotidiana."](https://www.dropbox.com/s/axa7gmqduv8qghf/carrionbot_fml.pdf?dl=0) *Pliego 16*. 12:21. Fundación para las letras mexicanas. 2017.
    * “Interhistorias. Narrativa intermedial y metaficcionalidad en la nueva ecología de medios.” Garone, M., Galina, I. y Godinas, L. (eds). "De la piedra al pixel- Reflexiones en torno a las edades del libro." Ciudad de México: UNAM, 2016.
    * [“Textos intermediales, textos metaficcionales: autoficción, lectores y nuevos medios en Orsai de Hernán Casciari.”](https://www.dropbox.com/s/idh11v7e55k18zw/orsai_metaficcion.pdf?dl=0) Gil González, Antonio J. (ed). Las sombras del novelista. AutoRepresentacioneS #3. Binges: Editions Orbis Tertius, 2014. 241-255.
    * “La historia dinámica de la lectura y su potencial frente a los medios digitales.” Revista Internacional Magisterio. 60. 2013. p. 16-20.
