@@ -7,24 +7,24 @@ description:
 
 **Academic Positions**
 
-Assistant Professor (Tenure Track)
-August 2019 to present
-Humanities Program
+Assistant Professor (Tenure Track).
+August 2019 to present.
+Humanities Program,
 University of Colorado, Boulder
 
-Assistant Professor (Tenure Track)
-July 2016 to July 2019
-Department of Cultures, Societies and Global Studies
+Assistant Professor (Tenure Track).
+July 2016 to July 2019.
+Department of Cultures, Societies and Global Studies,
 Northeastern University
 
-Postdoctoral Researcher
-January 2015 to June 2016
-Institute for Digital Research in the Humanities
+Postdoctoral Researcher.
+January 2015 to June 2016.
+Institute for Digital Research in the Humanities,
 University of Kansas
 
-Postdoctoral Fellowship
-September 2013 to December 2014
-CulturePlex Lab
+Postdoctoral Fellow.
+September 2013 to December 2014.
+CulturePlex Lab,
 University of Western Ontario
 
 
