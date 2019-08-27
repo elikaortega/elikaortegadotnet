@@ -30,20 +30,20 @@ University of Western Ontario
 
 **Degrees**
 
-2013 Ph.D. Literature (Hispanic Studies)
-Department of Modern Languages and Literatures
+2013 Ph.D. Literature (Hispanic Studies).
+Department of Modern Languages and Literatures,
 University of Western Ontario
 
-2007 M.A. English
-Department of English
+2007 M.A. English.
+Department of English,
 University of Toronto
 
-2006 M.A. Modern Languages and Literatures
-Facultad de Filosofía y Letras
+2006 M.A. Modern Languages and Literatures.
+Facultad de Filosofía y Letras,
 National Autonomous University of Mexico
 
-2004 B.A. Modern Languages and Literatures (English)
-Facultad de Filosofía y Letras
+2004 B.A. Modern Languages and Literatures (English).
+Facultad de Filosofía y Letras,
 National Autonomous University of Mexico
 
 
