@@ -10,7 +10,7 @@ description:
 Assistant Professor (Tenure Track).
 August 2019 to present.
 Humanities Program,
-University of Colorado, Boulder
+University of Colorado Boulder
 
 Assistant Professor (Tenure Track).
 July 2016 to July 2019.
