@@ -6,6 +6,8 @@ date:   2016-01-13 10:29:48 -0500
 categories: jekyll update
 ---
 
+UPDATE: This talk is now published as [“Zonas de Contacto: A Digital Humanities Ecology of Knowledges.”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15) in [Debates in the Digital Humanities 2019](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019).
+
 \[On Friday January 8, 2016, I had the great pleasure of taking part of
 the [MLA16 DH at the
 Borders](https://apps.mla.org/program_details?prog_id=400A&year=2016). I
