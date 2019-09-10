@@ -13,7 +13,9 @@ one more episode of\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. As a matter of
 fact, in a totally meta experience I watched this episode of
 *Portlandia* during a binge watching weekend a few years ago.
 
-\[embed\]https://youtu.be/yYjLrJRuMnY\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYjLrJRuMnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The scene above and [its follow
 up](https://youtu.be/gzY7POVQhp0?t=3m30s) highlight (hyperbolically as
@@ -110,12 +112,9 @@ Recurrence](http://www.leoalmanac.org/wp-content/uploads/2012/07/LEA-v10-n7.pdf)
 collection but one that moves temporally, and although I can't be sure
 yet, narratively, I think.
 
-\[caption id="attachment\_770" align="aligncenter" width="640"\][![As We
-Know, May
-3rd](%7B%7B%20site.baseurl%20%7D%7D/assets/fullsizerender.jpg){.wp-image-770
-.size-full width="640"
-height="274"}](https://elikaortegadotnet.files.wordpress.com/2015/05/fullsizerender.jpg)
-Borsuk and Fitch's *As We Know*, May 3rd.\[/caption\]
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/asweknow.jpg">
+</div>
 
 Even though *As We Know* does not impose materially this kind of
 episodic reading condition, it invites and evokes it. The work certainly
