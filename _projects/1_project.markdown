@@ -8,9 +8,9 @@ img: /assets/img/print_digital_books.JPG
 My monograph in progess *Binding Media: Print-Digital Literature 1980s-2010s* focuses on a hybrid literary and bibliographic practice I call “binding media.” This practice or phenomenon encompasses literary works published both in print and digital formats from the mid-1980s to the present. In my manuscript, I examine this practice from the complementary frameworks of electronic literature and media archaeology, cultural hybridity, and book and publishing studies.
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/carpenter.jpg" alt="" title="J.R. Carpenter"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/bogost.jpg" alt="" title="A Slow Year"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/bravo1.jpg" alt="" title="Árbol veloZ"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/carpenter.JPG" alt="" title="J.R. Carpenter"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bogost.JPG" alt="" title="A Slow Year"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bravo1.JPG" alt="" title="Árbol veloZ"/>
 </div>
 <div class="col three caption">
     A few examples of "Binding Media" including both print and digital components. Unlike Bravo's and Bogost's works including a CD-ROM, J.R. Carpenter's digital works are online.
@@ -19,9 +19,9 @@ My monograph in progess *Binding Media: Print-Digital Literature 1980s-2010s* fo
 With a few exceptions, studies of the works in my corpus have focused primarily on examining either the digital or the print, with little attention to the literary (i.e. narrative sequence), bibliographic (i.e. page design), and technical (i.e. augmented reality) mechanisms binding the print and digital objects together. This is arguably an outcome of the challenges in identifying the works as print-digital both in libraries and in specialized electronic literature catalogs; the issues of digital preservation that have brought some of these works very close to obsolescence; or the small print runs and limited circulation of the independent publishers taking on these endeavors. This landscape often means that scholars have only partial access to binding media works. My research is an effort to gather a broad collection of these works and examine them comprehensively. The corpus I have gathered, approximately fifty works, spans over three decades of production and has a hemispheric scope from Argentina to Canada.
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon1.jpg" alt="" title="Poesia Digital"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon5.jpg" alt="" title="El libro del fin del mundo"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon3.jpg" alt="" title="Poesía Electronica"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon1.JPG" alt="" title="Poesia Digital"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon5.JPG" alt="" title="El libro del fin del mundo"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/icon3.JPG" alt="" title="Poesía Electronica"/>
 </div>
 <div class="col three caption">
     An intriguing aspect of binding media works are the scripts, verbal or visual, to bring together or "bind" their digital and print components. These are often reflected in book and page design.
@@ -30,7 +30,7 @@ With a few exceptions, studies of the works in my corpus have focused primarily 
 I argue that binding media works stage a contact zone, and the encounters taking place at the juncture of transnational and transcultural exchanges fostered and furthered by media shift. The examination leads me to propose that, at the turn of the 21st century, in our globalized and hyper-connected world, cultural and media encounter must be seen as a continuum. Works binding media constitute a manifestation of emerging markets, aesthetics, objects, and people whose coming into contact with one another is influenced and shaped by digital communication technologies developed since the second half of the twentieth century. They are the archaeological remains of the still ongoing novelty years, the transitional states, and the identity crises of media, to use Lisa Gitelman’s words, between print and digital in the specific realm of literary creation.
        
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/pinsky1.jpg" alt="" title="Pinsky's Mindwheel"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/pinsky1.JPG" alt="" title="Pinsky's Mindwheel"/>
 </div>
 <div class="col three caption">
     Robert Pinsky's <em>Mindwheel</em> (1984) is one of the earliest examples in the corpus.
