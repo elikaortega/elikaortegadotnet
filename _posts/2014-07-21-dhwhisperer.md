@@ -39,6 +39,7 @@ linguistic communities that seem to be craving this kind of exercise
 more. We didn’t, but I remember seeing Arabic, Catalan, Dutch, English,
 French, Galician, German, Greek, Hindi, Italian, Japanese, Norwegian,
 Polish, Portuguese, Russian, Spanish, Swedish, and surely others.
+
 **First thing we learned:** there are considerably more languages moving
 around the conference than ADHO's official languages.
 
@@ -61,11 +62,13 @@ participants acknowledged that even though they could translate, for
 example, between Dutch and English, it wouldn’t be needed. Perhaps, it
 really wasn't, still, we encouraged them to take a pin and make it
 patent, just in case.So when anybody asked “should I write English as
-well?” we said
-yes.[![photo1(3)](%7B%7B%20site.baseurl%20%7D%7D/assets/photo13.jpg?w=1024&h=764){.aligncenter
-.wp-image-519 width="467"
-height="348"}](http://elikaortegadotnet.files.wordpress.com/2014/07/photo13.jpg)The
-initiative was warmly welcomed and turned out to be quite loud for a
+well?” we said yes.
+
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/godhpins1.jpg">
+</div>
+
+The initiative was warmly welcomed and turned out to be quite loud for a
 whisper. On Twitter and in person we kept hearing what a great idea it
 was, and how excited people were about putting on the pins. On the
 second day of the conference, [Aurélien
@@ -93,7 +96,9 @@ easier for the attendants to follow just the talk instead of filtering
 out from among all the other conference tweets. By the final day of the
 conference, [calls for
 whisperers](https://twitter.com/elikaortega/status/487502301461245952)
-were coming from different sessions. **Third thing we learned:** people
+were coming from different sessions. 
+
+**Third thing we learned:** people
 are ready for these initiatives, they’re willing to take part in them,
 they want to pitch in and deal with the messiness they entail, and there
 are lots of good ideas we hadn’t even imagined that we’re looking
@@ -110,10 +115,11 @@ need help in. **Fourth thing we learned:** If nothing else, the “I
 whisper\_\_\_” pins helped us realize (really become aware) just how
 multilingual DH really is, and wonder how much more it can become.
 
-[![photo(1)](%7B%7B%20site.baseurl%20%7D%7D/assets/photo1.jpg?w=1024&h=830){.aligncenter
-.wp-image-526 width="350"
-height="284"}](http://elikaortegadotnet.files.wordpress.com/2014/07/photo1.jpg)Even
-though I'm biased, overall, my impression is that the initiative was
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/godhpins2.jpg">
+</div>
+
+Even though I'm biased, overall, my impression is that the initiative was
 successful. That said, it also raised a lot of questions and it wasn’t
 put into practice as much as it could have been. By the end of the
 conference, most dhwhisperers didn’t do any whispering, partly perhaps
