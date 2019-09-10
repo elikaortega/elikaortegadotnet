@@ -109,9 +109,9 @@ Scholarly works, Anthologies or Collections
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/decampos.jpg" alt="" title="Augusto de Campos"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/counterpath2.jpg" alt="" title="Using Electricity examples"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia1.jpg" alt="" title="other examples"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/decampos.JPG" alt="" title="Augusto de Campos"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/counterpath2.JPG" alt="" title="Using Electricity examples"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia1.JPG" alt="" title="other examples"/>
 </div>
 <div class="col three caption">
     More examples of binding media works.
