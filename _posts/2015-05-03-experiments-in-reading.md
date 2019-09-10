@@ -15,8 +15,6 @@ fact, in a totally meta experience I watched this episode of
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYjLrJRuMnY" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yYjLrJRuMnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The scene above and [its follow
 up](https://youtu.be/gzY7POVQhp0?t=3m30s) highlight (hyperbolically as
 per the show’s satiric tone) the feeling of loss and dejection that are
