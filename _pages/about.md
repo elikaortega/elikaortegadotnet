@@ -31,6 +31,6 @@ Soy profesora asistente en el programa de [Humanidades](https://www.colorado.edu
 
 Trabajo sobre literatura digital y medios, hibridez cultural,  prácticas de lectura e interfaces, libros, humanidades digitales y multilingüismo en la academia. Mis proyectos incluyen [_A Handbook of E-Lit Reading, an archive of instructions to read electronic literature works_](https://elikaortega.github.io/elikaortegadotnet/projects/5_project/); y [_Binding Media: Print-Digital Literature 1980s-2010s_](https://elikaortega.github.io/elikaortegadotnet/projects/1_project/), mi monográfico que investiga la producción de obras literarias impreso-digitales desde una perspectiva hemisférica.
 
-Fui co-presidenta del Comité Académico para [Digital Humanities 2018](https://dh2018.adho.org/) y, actualmente estoy editando el número especial de la conferencia para DSH. Soy parte del comité ejecutivo del [TC Digital Humanities at MLA](https://mla.hcommons.org/groups/digital-humanities/forum/topic/mla19-582-roundtable-digital-hispanisms-2/).
+Fui co-presidenta del Comité Académico para [Digital Humanities 2018](https://dh2018.adho.org/) y, actualmente estoy editando el número especial de la conferencia para DSH. Soy parte del comité ejecutivo del [TC Digital Humanities de MLA](https://mla.hcommons.org/groups/digital-humanities/forum/topic/mla19-582-roundtable-digital-hispanisms-2/).
 
 Si quieres saber más de mi trabajo ve a las secciones de proyectos, cv, o blog.
