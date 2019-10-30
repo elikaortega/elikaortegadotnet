@@ -17,7 +17,7 @@ social: true
 
 **[EN]**
 
-I'm an assistant professor of [Humanities](https://www.colorado.edu/humanities/) at the [University of Colorado, Boulder](https://www.colorado.edu/). Before that, I was an Assistant Professor at the [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) and Core Faculty at the [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) at [Northeastern University](http://www.northeastern.edu/).
+I'm an assistant professor of [Humanities](https://www.colorado.edu/humanities/) soon moving to the [Department of Spanish and Portuguese](https://www.colorado.edu/spanish/) at the [University of Colorado, Boulder](https://www.colorado.edu/). Before that, I was an Assistant Professor at the [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) and Core Faculty at the [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) at [Northeastern University](http://www.northeastern.edu/).
 
 I write about digital literature and media, cultural hybridity, reading practices and interfaces, books, digital humanities, and multilingualism in academia. My projects include [_A Handbook of E-Lit Reading, an archive of instructions to read electronic literature works_](https://elikaortega.github.io/elikaortegadotnet/projects/5_project/); and [_Binding Media: Print-Digital Literature 1980s-2010s_](https://elikaortega.github.io/elikaortegadotnet/projects/1_project/), my monograph investigating print-digital works of literature from a hemispheric perspective.
 
