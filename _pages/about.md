@@ -2,13 +2,14 @@
 layout: about
 permalink: /
 title: <strong>Élika</strong> Ortega
-description: <a href="https://www.colorado.edu/humanities/">Assistant Professor. Humanities Program. CU, Boulder</a>.
+description: <a href="https://www.colorado.edu/spanish/">Assistant Professor. Department of Spanish and Portuguese. CU, Boulder</a>.
 
 profile:
   align: right
   image: workingatthelab_bnw.png
   address: >
-    <p>N124. Office Building 1</p> 
+    <p>McKenna 134</p>
+    <p>1505 Pleasant Street</p> 
     <p>Boulder, CO, 80309</p>
 
 news: false
