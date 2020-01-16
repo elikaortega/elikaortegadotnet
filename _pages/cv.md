@@ -8,7 +8,12 @@ description:
 **Academic Positions**
 
 Assistant Professor (Tenure Track).
-August 2019 to present.
+January 2020 to present.
+Department of Spanish and Portuguese,
+University of Colorado Boulder
+
+Assistant Professor (Tenure Track).
+August to December 2019.
 Humanities Program,
 University of Colorado Boulder
 
@@ -52,9 +57,10 @@ National Autonomous University of Mexico
 *Articles and Chapters*
 
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (under review).
-   * "Media and Cultural Hybridity in the Digital Humanities." PMLA. especial issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. Forthcoming January 2020.
-   * "Binding Media: Print Digital Literatures from Latin America" (under review at AMODERN).
+    * "Binding Media: Print Digital Literatures from Latin America" (under review).
+    * “La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos.” (Accepted to _Bibliographica_, special issue on Nuevos abordajes a la edición en México, siglos XX y XXI).
    * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
+   * "Media and Cultural Hybridity in the Digital Humanities." PMLA. especial issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. Forthcoming January 2020.
    * ["Zonas de Contacto: A Digital Humanities Ecology of Knowledges."](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15) *Debates in the Digital Humanities 2019.* (eds) Matthew Gold and Lauren Klein. University of Minnesota Press. 2019.
    * "Archives, Libraries, Collections, and Databases: A First Look at Digital Literary Studies in Mexico." *Hispanic Review.* Mexican Literary Archives Special Issue. Hispanic Review 86 (2), 229-247. [(pre-print)](https://t.co/CZMciYnF92).
    * [“Not a Case of Words:  Textual Environments and Multimateriality in Between Page and Screen.”](http://www.electronicbookreview.com/thread/electropoetics/multimateriality) *Electronic Book Review.* 2017.
@@ -184,7 +190,7 @@ National Autonomous University of Mexico
 *Service*
 
    * 2017 to present. Modern Languages Association. Digital Humanities Forum Executive Committee.
-   * 2015 to present. Executive Council Officer, Association for Computers and the Humanities
+   * 2015-2019. Executive Council Officer, Association for Computers and the Humanities
    * 2014-2018. Executive Committee Member, Global Outlook Digital Humanities
    * 2015-2017. ADHO's Standing Committee on Multi-Lingualism and Multi-Culturalism (ACH Representative)
 
@@ -198,8 +204,8 @@ National Autonomous University of Mexico
    * Electronic Literature Association
    * Red Latinoamericana de Literatura Electrónica
 
-**Book Reviews**
-
+**Reviews**
+   * "Ticha." _Reviews in Digital Humanities_, I(1). https://doi.org/10.21428/3e88f64f.2cb07375
    * "Geopolíticas tecnológicas y literarias: un vistazo a las poéticas digitales latinoamericanas: Una reseña de Poesía y poéticas digitales / electrónicas / tecnos / new-media en América Latina: Definiciones y exploraciones." Poéticas, Revista de estudios literarios. (Forthcoming).
    * "Earhart, Amy E. Traces of the Old, Uses of the New: The Emergence of Digital Literary Studies." Papers of the Bibliographical Society of America. Papers of the Bibliographical Society of America 111 (3), 424–427
    * "Preservation Paths. A Review of Pathfinders: Documenting the Experience of Early Digital Literature by Dene Grigar and Stuart Moulthrop." Digital Literary Studies. 1.1. 2016.
