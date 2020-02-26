@@ -7,6 +7,7 @@ description:
 
 **University of Colorado**
 
+  * SPAN 4130. The Power of Storytelling. Oral, Textual, and Digital Narratives
   * HUMN 2100. Arts, Culture, and Media
   * HUMN 3093. Topics: Electronic Media 
 
