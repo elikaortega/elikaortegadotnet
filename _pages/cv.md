@@ -56,11 +56,11 @@ National Autonomous University of Mexico
 
 *Articles and Chapters*
 
-   * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (under review).
+   * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (accepted).
    * "Binding Media: Print Digital Literatures from Latin America" (under review). 
-   * “La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos.” (Accepted to _Bibliographica_, special issue on Nuevos abordajes a la edición en México, siglos XX y XXI). 
+   * “La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos.” _Bibliographica_, special issue on Nuevos abordajes a la edición en México, siglos XX y XXI. (accepted). 
    * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
-   * "Media and Cultural Hybridity in the Digital Humanities." PMLA. especial issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. Forthcoming January 2020.
+   * "Media and Cultural Hybridity in the Digital Humanities." PMLA 35.1. Special issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. .
    * ["Zonas de Contacto: A Digital Humanities Ecology of Knowledges."](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15) *Debates in the Digital Humanities 2019.* (eds) Matthew Gold and Lauren Klein. University of Minnesota Press. 2019.
    * "Archives, Libraries, Collections, and Databases: A First Look at Digital Literary Studies in Mexico." *Hispanic Review.* Mexican Literary Archives Special Issue. Hispanic Review 86 (2), 229-247. [(pre-print)](https://t.co/CZMciYnF92).
    * [“Not a Case of Words:  Textual Environments and Multimateriality in Between Page and Screen.”](http://www.electronicbookreview.com/thread/electropoetics/multimateriality) *Electronic Book Review.* 2017.
