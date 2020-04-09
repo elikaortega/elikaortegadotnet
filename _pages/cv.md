@@ -58,7 +58,7 @@ National Autonomous University of Mexico
 
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (accepted).
    * "Binding Media: Print Digital Literatures from Latin America" (under review). 
-     * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
+   * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
    * ["The Many Books of the Future: Print-digital Literatures."](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/). _Post45. Ecologies of Neoliberal Publishing._ Ed. Jeremy Rosen. April 2020.   
    * ["La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos."](https://bibliographica.iib.unam.mx/index.php/RB/article/view/64) _Bibliographica_ 3:1. Nuevos abordajes a la edición en México, siglos XX y XXI. 2020
    * ["Media and Cultural Hybridity in the Digital Humanities."](https://www-mlajournals-org.colorado.idm.oclc.org/doi/pdf/10.1632/pmla.2020.135.1.159)" PMLA 35.1. Special issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. .
