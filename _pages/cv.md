@@ -82,6 +82,13 @@ National Autonomous University of Mexico
    * Ortega, Élika, Javier de la Rosa, and Juan Luis Suárez. [“Readers Read, Readers Write: A Methodology for The Study of Reading Practices in Media Convergence.”](https://src-online.ca/index.php/src/article/view/149/321) Journal Scholarly Research and Communication. 5:2. 2014.
    * Suárez, Juan Luis, Fernando Sancho-Caparrini, Élika Ortega, Javier de la Rosa, Natalia Caldas and David Brown. “Towards a Digital Geography of Hispanic Baroque Art.” Literary and Linguistic Computing 28.4 (2013): 718–735.
 
+**Reviews**
+   * ["From Street Protest to Twitter Protest: A Review of Leonardo Flores’s Twitter Bots."](http://archipelagosjournal.org/issue04/ortega-review.html) _archipelagos
+a journal of Caribbean digital praxis_ 4. March 2020. 
+   * "Ticha." _Reviews in Digital Humanities_, I(1). https://doi.org/10.21428/3e88f64f.2cb07375
+   * "Geopolíticas tecnológicas y literarias: un vistazo a las poéticas digitales latinoamericanas: Una reseña de Poesía y poéticas digitales / electrónicas / tecnos / new-media en América Latina: Definiciones y exploraciones." Poéticas, Revista de estudios literarios. (Forthcoming).
+   * "Earhart, Amy E. Traces of the Old, Uses of the New: The Emergence of Digital Literary Studies." Papers of the Bibliographical Society of America. Papers of the Bibliographical Society of America 111 (3), 424–427
+   * "Preservation Paths. A Review of Pathfinders: Documenting the Experience of Early Digital Literature by Dene Grigar and Stuart Moulthrop." Digital Literary Studies. 1.1. 2016.
 **Talks**
 
 *Invited Talks*
@@ -204,9 +211,3 @@ National Autonomous University of Mexico
    * Global Outlook::Digital Humanities
    * Electronic Literature Association
    * Red Latinoamericana de Literatura Electrónica
-
-**Reviews**
-   * "Ticha." _Reviews in Digital Humanities_, I(1). https://doi.org/10.21428/3e88f64f.2cb07375
-   * "Geopolíticas tecnológicas y literarias: un vistazo a las poéticas digitales latinoamericanas: Una reseña de Poesía y poéticas digitales / electrónicas / tecnos / new-media en América Latina: Definiciones y exploraciones." Poéticas, Revista de estudios literarios. (Forthcoming).
-   * "Earhart, Amy E. Traces of the Old, Uses of the New: The Emergence of Digital Literary Studies." Papers of the Bibliographical Society of America. Papers of the Bibliographical Society of America 111 (3), 424–427
-   * "Preservation Paths. A Review of Pathfinders: Documenting the Experience of Early Digital Literature by Dene Grigar and Stuart Moulthrop." Digital Literary Studies. 1.1. 2016.
