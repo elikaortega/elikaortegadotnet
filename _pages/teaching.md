@@ -7,6 +7,8 @@ description:
 
 **University of Colorado**
 
+  * SPAN 5320/7320. Digital Literary Arts and the Capitalist World Ecology. [Website](https://docs.google.com/document/d/1Li0_D9Qk1Uf2c30nVTo1Ie-iGJp4uBae5gxKXpSvtJc/pub)
+  * SPAN 4180. Major Works in Latin American Literature and Culture
   * SPAN 4130. The Power of Storytelling. Oral, Textual, and Digital Narratives
   * HUMN 2100. Arts, Culture, and Media
   * HUMN 3093. Topics: Electronic Media 
