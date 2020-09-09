@@ -28,7 +28,7 @@ Please go to projects, cv, or blog to find out more about my work.
 
 **[ES]**
 
-Soy profesora asistente en el programa de [Humanidades](https://www.colorado.edu/humanities/) y próximamente en el [Departamento de Español y Portugués](https://www.colorado.edu/spanish/) en la [Universidad de Colorado, Boulder](https://www.colorado.edu/). Antes de estar en CUB fui profesora asistente en el [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) y el [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) en [Northeastern University](http://www.northeastern.edu/). 
+Soy profesora asistente en el [Departamento de Español y Portugués](https://www.colorado.edu/spanish/) en la [Universidad de Colorado, Boulder](https://www.colorado.edu/). Antes de estar en CUB fui profesora asistente en el [Department of Cultures, Societies, and Global Studies](http://www.northeastern.edu/globalstudies) y el [NULab for Texts, Maps and Networks](http://www.northeastern.edu/nulab/) en [Northeastern University](http://www.northeastern.edu/). 
 
 Trabajo sobre literatura digital y medios, hibridez cultural,  prácticas de lectura e interfaces, libros, humanidades digitales y multilingüismo en la academia. Mis proyectos incluyen [_A Handbook of E-Lit Reading, an archive of instructions to read electronic literature works_](https://elikaortega.github.io/elikaortegadotnet/projects/5_project/); y [_Binding Media: Print-Digital Literature 1980s-2010s_](https://elikaortega.github.io/elikaortegadotnet/projects/1_project/), mi monográfico que investiga la producción de obras literarias impreso-digitales desde una perspectiva hemisférica.
 
