@@ -56,9 +56,10 @@ National Autonomous University of Mexico
 
 *Articles and Chapters*
 
-   * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. (accepted).
-   * "Binding Media: Print Digital Literatures from Latin America" (under review). 
+   * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of ASAP/J. Eds. Rita Raley and Paul Benson. (Submitted).
+   * "Hacia una interdisciplinariedad digital. Literatura Electrónica y Humanidades Digitales" _Cartografía crítica de la literatura digital latinoamericana._ Eds. Carolina Gainza, Nohelia Meza and Rejane Rocha. (Submitted).
    * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
+   * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. University of Toronto Press. Winter 2022. (Forthcoming)
    * ["The Many Books of the Future: Print-digital Literatures."](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) _Post45. Ecologies of Neoliberal Publishing._ Ed. Jeremy Rosen. April 2020.   
    * ["La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos."](https://bibliographica.iib.unam.mx/index.php/RB/article/view/64) _Bibliographica_ 3:1. Nuevos abordajes a la edición en México, siglos XX y XXI. 2020
    * ["Media and Cultural Hybridity in the Digital Humanities."](https://www-mlajournals-org.colorado.idm.oclc.org/doi/pdf/10.1632/pmla.2020.135.1.159) PMLA 35.1. Special issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. .
@@ -74,7 +75,7 @@ National Autonomous University of Mexico
 
 *Co-authored Articles and Chapters*
 
-   * Ortega, Élika and Alex Saum-Pascual. “Toys and Toons: From Hispanic Literary Traditions to a Global E-Lit Landscape.” Electronic Literature: Contexts, Forms, and Practices. (eds) Dene Grigar and James O’Sullivan. (Forthcoming).
+   * Ortega, Élika and Alex Saum-Pascual. “Toys and Toons: From Hispanic Literary Traditions to a Global E-Lit Landscape.” Electronic Literature: Contexts, Forms, and Practices. (eds) Dene Grigar and James O’Sullivan. London: Bloomsbury Academic, 2021.
    * Ortega, Élika and Alex Gil. "Project Statement: GO::DH Translation Toolkit" DHCommons. October 2016.
    * Gil, Alex and Élika Ortega. ["Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing."](https://www.dropbox.com/s/np0qv8exfrwluvb/DoingDigitalHumanitiesGODHchapter.pdf?dl=0) Doing Digital Humanities. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016.
    * Ortega, Élika, David Brown, and Juan Luis Suárez. [“Redes textuales: Diseño y análisis de bases de datos en grafo para estudios literarios.”](https://www.dropbox.com/s/ymh5jn1rkd585lo/insula.pdf?dl=0) Ínsula 882. 2015.
@@ -82,9 +83,15 @@ National Autonomous University of Mexico
    * Ortega, Élika, Javier de la Rosa, and Juan Luis Suárez. [“Readers Read, Readers Write: A Methodology for The Study of Reading Practices in Media Convergence.”](https://src-online.ca/index.php/src/article/view/149/321) Journal Scholarly Research and Communication. 5:2. 2014.
    * Suárez, Juan Luis, Fernando Sancho-Caparrini, Élika Ortega, Javier de la Rosa, Natalia Caldas and David Brown. “Towards a Digital Geography of Hispanic Baroque Art.” Literary and Linguistic Computing 28.4 (2013): 718–735.
 
+*Edited Issues*
+
+  * Digital Humanities 2018 Special Issue. _Digital Scholarship in the Humanities._ 36.1. June 2021. With Ernesto Priani and Glen Worthey.
+  * Digital Humanities in Spanish and Portuguese. _Hispania._ (In press). With Megan J. Myers and Susanna Allés Torrent. 
+
 *Reviews*
 
-   * ["From Street Protest to Twitter Protest: A Review of Leonardo Flores’s Twitter Bots."](http://archipelagosjournal.org/issue04/ortega-review.html) _archipelagos
+   * “Héctor Fernández L’Hoeste and Juan Carlos Rodríguez (eds.) _Digital Humanities in Latin America._ University of Florida Press, 2020.” Revista de Estudios Hispánicos. (Forthcoming). 
+   *  ["From Street Protest to Twitter Protest: A Review of Leonardo Flores’s Twitter Bots."](http://archipelagosjournal.org/issue04/ortega-review.html) _archipelagos
 a journal of Caribbean digital praxis_ 4. March 2020. 
    * "Ticha." _Reviews in Digital Humanities_, I(1). https://doi.org/10.21428/3e88f64f.2cb07375
    * "Geopolíticas tecnológicas y literarias: un vistazo a las poéticas digitales latinoamericanas: Una reseña de Poesía y poéticas digitales / electrónicas / tecnos / new-media en América Latina: Definiciones y exploraciones." Poéticas, Revista de estudios literarios. (Forthcoming).
