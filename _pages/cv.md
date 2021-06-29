@@ -56,7 +56,7 @@ National Autonomous University of Mexico
 
 *Articles and Chapters*
 
-   * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of ASAP/J. Eds. Rita Raley and Paul Benson. (Submitted).
+   * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of _ASAP/J_. Eds. Rita Raley and Paul Benson. (Submitted).
    * "Hacia una interdisciplinariedad digital. Literatura Electrónica y Humanidades Digitales" _Cartografía crítica de la literatura digital latinoamericana._ Eds. Carolina Gainza, Nohelia Meza and Rejane Rocha. (Submitted).
    * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. University of Toronto Press. Winter 2022. (Forthcoming)
@@ -85,8 +85,8 @@ National Autonomous University of Mexico
 
 *Edited Issues*
 
-  * Digital Humanities 2018 Special Issue. _Digital Scholarship in the Humanities._ 36.1. June 2021. With Ernesto Priani and Glen Worthey.
-  * Digital Humanities in Spanish and Portuguese. _Hispania._ (In press). With Megan J. Myers and Susanna Allés Torrent. 
+  * Digital Humanities 2018 Bridges/Puentes Special Issue. _Digital Scholarship in the Humanities._ 36.1. June 2021. With Ernesto Priani and Glen Worthey.
+  * Digital Humanities in Spanish and Portuguese. _Hispania._ (Forthcoming Dec. 2021). With Megan J. Myers and Susanna Allés Torrent. 
 
 *Reviews*
 
