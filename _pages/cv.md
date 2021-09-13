@@ -58,8 +58,8 @@ National Autonomous University of Mexico
 
    * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of _ASAP/J_. Eds. Rita Raley and Paul Benson. (Submitted).
    * "Hacia una interdisciplinariedad digital. Literatura Electrónica y Humanidades Digitales" _Cartografía crítica de la literatura digital latinoamericana._ Eds. Carolina Gainza, Nohelia Meza and Rejane Rocha. (Submitted).
-   * “Dimensiones materiales de la literatura digital.” Estamos aquí. Escrituras tocadas: Literatura, tecnología e internet. (ed) Mónica Nepote. Centro de Cultura Digital. Mexico. (Forthcoming).
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. University of Toronto Press. Winter 2022. (Forthcoming)
+   * “Dimensiones materiales de la literatura digital.” [Estamos aquí](https://editorial.centroculturadigital.mx/libro/estamos-aqui). Ciudad de México: Centro de Cultura Digital, 2021.
    * ["The Many Books of the Future: Print-digital Literatures."](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) _Post45. Ecologies of Neoliberal Publishing._ Ed. Jeremy Rosen. April 2020.   
    * ["La Editorial del Ccdmx: De la experimentación en práctica a la creación de nuevos públicos."](https://bibliographica.iib.unam.mx/index.php/RB/article/view/64) _Bibliographica_ 3:1. Nuevos abordajes a la edición en México, siglos XX y XXI. 2020
    * ["Media and Cultural Hybridity in the Digital Humanities."](https://www-mlajournals-org.colorado.idm.oclc.org/doi/pdf/10.1632/pmla.2020.135.1.159) PMLA 35.1. Special issue Varieties of Digital Humanities. Eds. Alison Booth and Miriam Posner. .
@@ -85,7 +85,7 @@ National Autonomous University of Mexico
 
 *Edited Issues*
 
-  * Digital Humanities 2018 Bridges/Puentes Special Issue. _Digital Scholarship in the Humanities._ 36.1. June 2021. With Ernesto Priani and Glen Worthey.
+  * Digital Humanities 2018 Bridges/Puentes Special Issue. [_Digital Scholarship in the Humanities._ 36.1](https://academic.oup.com/dsh/issue/36/Supplement_1). June 2021. With Ernesto Priani and Glen Worthey.
   * Digital Humanities in Spanish and Portuguese. _Hispania._ (Forthcoming Dec. 2021). With Megan J. Myers and Susanna Allés Torrent. 
 
 *Reviews*
@@ -100,6 +100,13 @@ a journal of Caribbean digital praxis_ 4. March 2020.
 **Talks**
 
 *Invited Talks*
+
+2021
+   * "Entre impreso y digital. La producción literaria libresca del siglo 21 y sus implicaciones culturalas" Seminario Interdisciplinario de Bibliología. Online, UNAM. March 11.
+   
+2020
+
+   * ["Literatura impresa-digital: Nuevos (y no tan nuevos) medios en intersección con el libro."](https://www.youtube.com/watch?v=6z7JBKHN35s) (Keynote). Foro de Estudios Humanísticos. Online, Tecnológico de Monterrey. October 22. 
 
 2019
  
