@@ -56,8 +56,8 @@ National Autonomous University of Mexico
 
 *Articles and Chapters*
 
-   * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of _ASAP/J_. Eds. Rita Raley and Paul Benson. (Submitted).
-   * "Hacia una interdisciplinariedad digital. Literatura Electrónica y Humanidades Digitales" _Cartografía crítica de la literatura digital latinoamericana._ Eds. Carolina Gainza, Nohelia Meza and Rejane Rocha. (Submitted).
+   * "(Loosely) Bound Books Vivian Abenshushan and the Impossible Novel.” New Inscriptions Special Issue of _ASAP/J_. Eds. Rita Raley and Paul Benson. (Accepted).
+   * "Hacia una interdisciplinariedad digital. Literatura Electrónica y Humanidades Digitales" _Cartografía crítica de la literatura digital latinoamericana._ Eds. Carolina Gainza, Nohelia Meza and Rejane Rocha. (Accepted).
    * "Print Then Digital. Material Reimaginations in Anacrón and Tesauro." _Digital Encounters_. (eds) Cecily Raynor and Rhian Lewis. University of Toronto Press. Winter 2022. (Forthcoming)
    * “Dimensiones materiales de la literatura digital.” [Estamos aquí](https://editorial.centroculturadigital.mx/libro/estamos-aqui). Ciudad de México: Centro de Cultura Digital, 2021.
    * ["The Many Books of the Future: Print-digital Literatures."](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) _Post45. Ecologies of Neoliberal Publishing._ Ed. Jeremy Rosen. April 2020.   
@@ -75,22 +75,23 @@ National Autonomous University of Mexico
 
 *Co-authored Articles and Chapters*
 
-   * Ortega, Élika and Alex Saum-Pascual. “Toys and Toons: From Hispanic Literary Traditions to a Global E-Lit Landscape.” Electronic Literature: Contexts, Forms, and Practices. (eds) Dene Grigar and James O’Sullivan. London: Bloomsbury Academic, 2021.
-   * Ortega, Élika and Alex Gil. "Project Statement: GO::DH Translation Toolkit" DHCommons. October 2016.
-   * Gil, Alex and Élika Ortega. ["Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing."](https://www.dropbox.com/s/np0qv8exfrwluvb/DoingDigitalHumanitiesGODHchapter.pdf?dl=0) Doing Digital Humanities. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016.
-   * Ortega, Élika, David Brown, and Juan Luis Suárez. [“Redes textuales: Diseño y análisis de bases de datos en grafo para estudios literarios.”](https://www.dropbox.com/s/ymh5jn1rkd585lo/insula.pdf?dl=0) Ínsula 882. 2015.
-   * Ortega, Élika and Silvia Gutiérrez. [“MapaHD. Una exploración de las Humanidades Digitales en español y portugués.”](https://www.dropbox.com/s/g97pxidymprccjf/mapahd.pdf?dl=0) Romero Frías, Esteban and María Sánchez. Ciencias Sociales y Humanidades Digitales. CAC, Cuadernos Artesanos de Comunicación, 61. 2014.
-   * Ortega, Élika, Javier de la Rosa, and Juan Luis Suárez. [“Readers Read, Readers Write: A Methodology for The Study of Reading Practices in Media Convergence.”](https://src-online.ca/index.php/src/article/view/149/321) Journal Scholarly Research and Communication. 5:2. 2014.
-   * Suárez, Juan Luis, Fernando Sancho-Caparrini, Élika Ortega, Javier de la Rosa, Natalia Caldas and David Brown. “Towards a Digital Geography of Hispanic Baroque Art.” Literary and Linguistic Computing 28.4 (2013): 718–735.
+   * Allés-Torrent, Susana, Meghan Myers, and Élika Ortega. "Introduction. New Dialogues in Spanish and Portuguese Studies: Pedagogical and Theoretical Perspectives from the Digital Humanities. _Hispania_ 104(4) 535-341.
+   * Ortega, Élika and Alex Saum-Pascual. “Toys and Toons: From Hispanic Literary Traditions to a Global E-Lit Landscape.” _Electronic Literature: Contexts, Forms, and Practices_. (eds) Dene Grigar and James O’Sullivan. London: Bloomsbury Academic, 2021.
+   * Ortega, Élika and Alex Gil. "Project Statement: GO::DH Translation Toolkit" _DHCommons_. October 2016.
+   * Gil, Alex and Élika Ortega. ["Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing."](https://www.dropbox.com/s/np0qv8exfrwluvb/DoingDigitalHumanitiesGODHchapter.pdf?dl=0) _Doing Digital Humanities_. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016.
+   * Ortega, Élika, David Brown, and Juan Luis Suárez. [“Redes textuales: Diseño y análisis de bases de datos en grafo para estudios literarios.”](https://www.dropbox.com/s/ymh5jn1rkd585lo/insula.pdf?dl=0) _Ínsula_ 882. 2015.
+   * Ortega, Élika and Silvia Gutiérrez. [“MapaHD. Una exploración de las Humanidades Digitales en español y portugués.”](https://www.dropbox.com/s/g97pxidymprccjf/mapahd.pdf?dl=0) Romero Frías, Esteban and María Sánchez. _Ciencias Sociales y Humanidades Digitales_. CAC, Cuadernos Artesanos de Comunicación, 61. 2014.
+   * Ortega, Élika, Javier de la Rosa, and Juan Luis Suárez. [“Readers Read, Readers Write: A Methodology for The Study of Reading Practices in Media Convergence.”](https://src-online.ca/index.php/src/article/view/149/321) _Journal Scholarly Research and Communication_. 5:2. 2014.
+   * Suárez, Juan Luis, Fernando Sancho-Caparrini, Élika Ortega, Javier de la Rosa, Natalia Caldas and David Brown. “Towards a Digital Geography of Hispanic Baroque Art.” _Literary and Linguistic Computing_ 28.4 (2013): 718–735.
 
 *Edited Issues*
 
   * Digital Humanities 2018 Bridges/Puentes Special Issue. [_Digital Scholarship in the Humanities._ 36.1](https://academic.oup.com/dsh/issue/36/Supplement_1). June 2021. With Ernesto Priani and Glen Worthey.
-  * Digital Humanities in Spanish and Portuguese. _Hispania._ (Forthcoming Dec. 2021). With Megan J. Myers and Susanna Allés Torrent. 
+  * Digital Humanities in Spanish and Portuguese. _Hispania._ 104(4) Dec. 2021. With Megan J. Myers and Susanna Allés Torrent. 
 
 *Reviews*
 
-   * “Héctor Fernández L’Hoeste and Juan Carlos Rodríguez (eds.) _Digital Humanities in Latin America._ University of Florida Press, 2020.” Revista de Estudios Hispánicos. (Forthcoming). 
+   * “Héctor Fernández L’Hoeste and Juan Carlos Rodríguez (eds.) _Digital Humanities in Latin America._ University of Florida Press, 2020.” Revista de Estudios Hispánicoa 55(2). 471-474. 
    *  ["From Street Protest to Twitter Protest: A Review of Leonardo Flores’s Twitter Bots."](http://archipelagosjournal.org/issue04/ortega-review.html) _archipelagos
 a journal of Caribbean digital praxis_ 4. March 2020. 
    * "Ticha." _Reviews in Digital Humanities_, I(1). https://doi.org/10.21428/3e88f64f.2cb07375
@@ -102,7 +103,7 @@ a journal of Caribbean digital praxis_ 4. March 2020.
 *Invited Talks*
 
 2021
-   * "Entre impreso y digital. La producción literaria libresca del siglo 21 y sus implicaciones culturalas" Seminario Interdisciplinario de Bibliología. Online, UNAM. March 11.
+   * "Entre impreso y digital. La producción literaria libresca del siglo 21 y sus implicaciones culturales" Seminario Interdisciplinario de Bibliología. Online, UNAM. March 11.
    
 2020
 
@@ -150,6 +151,17 @@ a journal of Caribbean digital praxis_ 4. March 2020.
 
 **Conference Presentations**
 
+2022
+
+   * "Establishing unofficial interinstitutional relationships during COVID." Teaching DH in the times of COVID. MLA2022. January 7, 2022.
+
+2020
+
+   * "(Loosely) Bound Books." _Inscriptions Symposium_ Virtual. October 17.
+   * "Performing TBT Outside of the Classroom. Using Experiential Learning to Rethink Poetic Technologies." Electronic Literature Organization Conference. Virtual. July 17.
+   * "Critical Engagements between Modern Languages and Digital Humanities." MLA2020. January 9.
+   * "Weird Books". MLA2020, January 9.
+ 
 2019
 
    * "Latin American Hybridity and Media Encounters." Digital Hispanisms, MLA19. Chicago, January 5.
@@ -212,7 +224,9 @@ a journal of Caribbean digital praxis_ 4. March 2020.
 
 *Service*
 
-   * 2017 to present. Modern Languages Association. Digital Humanities Forum Executive Committee.
+   * 2022 to present. KULA: Knowledge Creation, Dissemination, and Preservation Studies. Advisory Board.
+   * 2021 to present. Committe for Information Technology. Modern Languages Association.
+   * 2017-2022. Modern Languages Association. Digital Humanities Forum Executive Committee.
    * 2015-2019. Executive Council Officer, Association for Computers and the Humanities
    * 2014-2018. Executive Committee Member, Global Outlook Digital Humanities
    * 2015-2017. ADHO's Standing Committee on Multi-Lingualism and Multi-Culturalism (ACH Representative)
