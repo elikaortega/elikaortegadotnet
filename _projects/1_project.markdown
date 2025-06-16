@@ -2,7 +2,7 @@
 layout: page
 title: Binding Media. Hybrid Print-Digital Literature from across the Americas
 description: 
-img: /assets/img/project1img.PNG
+img: /assets/img/gomezpena.JPG
 ---
 **Overview**
 
@@ -18,6 +18,10 @@ Despite perennial forewarnings of the death of the book as a result of the newes
 </div>
 
 Despite the manifest presence of media hybridity in contemporary literature, there still exists a divide in the scholarly world between print and digital media in literary studies. My book addresses this divide through the discovery, collection, and physical examination of binding media. I particularly analyze the bespoke configurations of print and digital objects at the levels of text, book design and production, and technical compositions that serve as the binding mechanisms holding the work together. I look at binding media from four perspectives: as a development in the form of the book at the turn of the twenty-first century, through the publishing environments that yield such literary phenomena, as objects with embedded temporalities and life span that prompt a reconsideration of the methodologies of literary inquiry and, lastly, as a material hybrid substrate of cultural hybridity (see annotated table of contents below for details). 
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bmsup.JPG" alt="" title="Binding Media"/>
+</div>
 
 From a media archaeological perspective, I argue for the co-constitutiveness of print and digital in binding media, a feature that has implications for the contemporary form of the book and the publishing and media practices that yield works like these. The media hybridity of these works situates them at an intersection of the book and digital media industries and their operational timeframes (durability and rapid obsolescence). Because of their conflicting lifespans as cultural objects, binding media force a reckoning with the established institutional, industry, literary, and social imaginaries/practices that surround them. Ultimately, emerging once and again all over the American continent, binding media are not the product of an identifiable literary movement, but a recurrent trope precipitated by the increasing and uneven popularization of digital media in the last four decades. In this way, the works in the corpus of binding media can be seen as manifestations of, in Erkki Huhtamo’s words, “certain commonplace elements or cultural motives” despite their many variations, regions of production, and non-standardized status. The recurrent newness of binding media makes them subject to unstable and variable professional practices like preservation and conservation, cataloging, and teaching.
 
