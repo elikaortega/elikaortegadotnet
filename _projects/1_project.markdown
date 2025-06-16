@@ -11,7 +11,7 @@ Despite perennial forewarnings of the death of the book as a result of the newes
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/pinsky1.JPG" alt="" title="Pinsky's Mindwheel"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/decampos.JPG" alt="" title="Nao Poesia"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia2.JPG" alt="" title="O livro "/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia2.JPG" alt="" title="O livro"/>
 </div>
 <div class="col three caption">
     A few examples of "Binding Media" I discuss in the book.
@@ -21,6 +21,9 @@ Despite the manifest presence of media hybridity in contemporary literature, the
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/bmsup.JPG" alt="" title="Binding Media"/>
+</div>
+<div class="col three caption">
+    Binding Media. Print-Digital Literature from across the Americas
 </div>
 
 From a media archaeological perspective, I argue for the co-constitutiveness of print and digital in binding media, a feature that has implications for the contemporary form of the book and the publishing and media practices that yield works like these. The media hybridity of these works situates them at an intersection of the book and digital media industries and their operational timeframes (durability and rapid obsolescence). Because of their conflicting lifespans as cultural objects, binding media force a reckoning with the established institutional, industry, literary, and social imaginaries/practices that surround them. Ultimately, emerging once and again all over the American continent, binding media are not the product of an identifiable literary movement, but a recurrent trope precipitated by the increasing and uneven popularization of digital media in the last four decades. In this way, the works in the corpus of binding media can be seen as manifestations of, in Erkki Huhtamo’s words, “certain commonplace elements or cultural motives” despite their many variations, regions of production, and non-standardized status. The recurrent newness of binding media makes them subject to unstable and variable professional practices like preservation and conservation, cataloging, and teaching.
