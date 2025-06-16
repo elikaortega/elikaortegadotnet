@@ -2,7 +2,7 @@
 layout: page
 title: Binding Media. Hybrid Print-Digital Literature from across the Americas
 description: 
-img: /assets/img/bmsup.JPG
+img: /assets/img/cropbmsup.JPG
 ---
 **Overview**
 
