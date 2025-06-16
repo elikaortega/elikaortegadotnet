@@ -11,7 +11,7 @@ Despite perennial forewarnings of the death of the book as a result of the newes
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/pinsky1.JPG" alt="" title="Pinsky's Mindwheel"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/decampos.JPG" alt="" title="Nao Poesia"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/bravo1.JPG" alt="" title="Árbol veloZ"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia2.JPG" alt="" title="O livro "/>
 </div>
 <div class="col three caption">
     A few examples of "Binding Media" I discuss in the book.
@@ -25,6 +25,7 @@ Throughout the book, I elucidate an ecology of shifting media practices specific
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/counterpath2.JPG" alt="" title="Using Electricity examples"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/print_digital_books.JPG" alt="" title="other examples"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/bindingmedia1.JPG" alt="" title="other examples"/>
 </div>
 <div class="col three caption">
