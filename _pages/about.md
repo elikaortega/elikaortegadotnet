@@ -13,7 +13,7 @@ profile:
     <p>Boulder, CO, 80309</p>
 
 news: false
-social: true
+social: false
 ---
 
 **[EN]**
