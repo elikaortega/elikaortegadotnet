@@ -4,7 +4,7 @@ title: Binding Media. Hybrid Print-Digital Literature from across the Americas
 description: 
 img: /assets/img/print_digital_books.JPG
 ---
-*Overview*
+**Overview**
 
 Despite perennial forewarnings of the death of the book as a result of the newest digital device or service, it is increasingly evident that a bookless future is not on the horizon. On the contrary, both print and digital book innovations abound along a continuum of techno-cultural transformations. While intersections between print and digital are vast and plentiful, in Binding Media: Print and Digital Hybrid Literary Manifestations in the American Continent, I examine a phenomenon I term “binding media” — a literary practice where authors "fasten together” a codex and electronic or digital media for the creation of a single work, and the resulting hybrid print-digital object. My theorizations stem from a corpus I have identified of over 100 examples spanning the last four decades and including authors from Spanish and Portuguese speaking Latin America, and from English speaking North America. Among the collected works are Amaranth Borsuk and Brad Bouse’s _Between Page and Screen_ (2012), Luis Correa-Díaz’s _Clickable Poem@s_ (2016), and Giselle Beiguelman’s _O Livro depois do Livro_ (2003).
 
@@ -33,18 +33,18 @@ Throughout the book, I elucidate an ecology of shifting media practices specific
 
 The hemispheric scope of the corpus in Spanish, Portuguese, and English, while limited by my own linguistic and literary expertise, makes Binding Media stand out among related works. Rather than focusing on a literary practice circumscribed to a circle of authors, I highlight multiple and very distinct contexts that operate within the Americas. By critiquing and expanding the Global North bias of scholarship devoted to book and media studies and digital literature, I’m able to investigate the effects of the overlap of print and digital media in literary creation, publication, and reading in a comparative fashion. My book, then, makes an important contribution to the fields of book and publishing studies, digital and electronic literature, and media archaeology and digital culture as I engage in a study that is comparative both of the media under analysis, and of the various contexts considered.
 
-Table of Contents
+**Table of Contents**
 
-Acknowledgments
-Introduction
-1. Binding Media: Negotiating (Un)Boundedness
-2. From the Digital Revolution in Publishing to a Material History of Hybrid Books
-3. Divergent Temporalities in Binding Media
-4. Media Hybridity and Cultural Hybridity
-Conclusion: From Computer-Generated Books to NFT Publishing
-Appendix: Binding Media Corpus
-Notes
-Bibliography
-Index
+<p>Acknowledgments<br/>
+<p>Introduction<br/>
+<p>1. Binding Media: Negotiating (Un)Boundedness<br/>
+<p>2. From the Digital Revolution in Publishing to a Material History of Hybrid Books<br/>
+<p>3. Divergent Temporalities in Binding Media<br/>
+<p>4. Media Hybridity and Cultural Hybridity<br/>
+<p>Conclusion: From Computer-Generated Books to NFT Publishing<br/>
+<p>Appendix: Binding Media Corpus<br/>
+<p>Notes<br/>
+<p>Bibliography<br/>
+<p>Index</p>
 
 <br/><br/>
