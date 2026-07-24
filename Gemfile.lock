@@ -233,6 +233,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     namae (1.0.1)
+    nokogiri (1.19.4-x86_64-linux-gnu)
     net-http (0.9.1)
       uri (>= 0.11.1)
     nokogiri (1.19.3-x86_64-linux-gnu)
